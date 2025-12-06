@@ -43,9 +43,9 @@ class Vehicle(models.Model):
         return (f"{self.car_name} {self.car_type} {self.car_price} {self.car_year}")
 ```
 ## OUTPUT
+![alt text](<screenshot 2025-11-26 at 11.04.03_94ff2598.jpg>)
 
-<img width="1896" height="909" alt="Screenshot 2025-09-24 214310" src="https://github.com/user-attachments/assets/6fec1df8-cbec-4311-8d6a-1ac29df17a71" />
-
+![alt text](<screenshot 2025-11-26 at 11.04.03_94ff2598-1.jpg>)
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
